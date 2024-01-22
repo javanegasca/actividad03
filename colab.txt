@@ -1,1 +1,3 @@
 hola soy Nayrobi estoy colaborando en este proyecto, si los compañeros me lo permiten
+
+hago otra modificacion porque no habia configurado usuario y email
